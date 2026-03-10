@@ -1,78 +1,138 @@
-# 👨‍💻 Nato Dev
+<div align="center">
 
-**`Desenvolvedor Backend`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=200&section=header&text=Francinato%20Silva&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Nato%20Dev%20|%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=a8c7fa" width="100%"/>
 
-Me chamo Francinato, tenho 20 anos e sou de Fortaleza (CE). Atualmente curso Sistemas de Informação na UNI7. Sou apaixonado por tecnologia e nos últimos meses venho me dedicando intensamente aos fundamentos da Engenharia de Software, como Modelagem de Banco de Dados, Levantamento de Requisitos e Estruturas de Dados.
-Meu objetivo é desenvolver aplicações mais organizadas, escaláveis e performáticas, sempre buscando evoluir como desenvolvedor.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francinato%20Silva%20-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/francinato-silva)
-[![Email](https://img.shields.io/badge/Email-francinatoireno%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:francinatoireno@gmail.com)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francinato-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francinatoireno@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francinato-silva)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## `> whoami`
 
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/java/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SPRINGBOOT" 
-    title="SPRINGBOOT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/spring/original.svg"
-/>
-<img 
-    align="left" 
-    alt="POSTGRESQL"
-    title="POSTGRESQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/postgresql/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+```java
+public class NatoDev {
 
-<br/>
-<br/>
+    private final String name    = "Francinato Silva";
+    private final String role    = "Backend Developer";
+    private final String focus   = "Java · Spring Boot · SQL";
+    private final String status  = "🟢 Open to opportunities";
+    private final String based   = "Fortaleza, Brasil 🇧🇷";
 
-### 📊 Estatísticas
+    public String[] coreFoundations() {
+        return new String[]{
+            "Object-Oriented Programming",
+            "Data Structures & Algorithms (Big O)",
+            "Relational DB Modeling & Normalization",
+            "Software Architecture & Clean Code"
+        };
+    }
+}
+```
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=francinatosilva&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinatosilva&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🛠️ Tech Stack
 
-</p>
+<div align="center">
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Tools & Concepts**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td width="60px" align="center">🛒</td>
+    <td>
+      <strong>E-Commerce API — Backend</strong><br/>
+      API RESTful construída com Java + Spring Boot para gerenciar o fluxo completo de um e-commerce: catálogo, carrinho, checkout e pedidos. Infraestrutura em nuvem com PostgreSQL via Supabase desde a fase de MVP.
+    </td>
+  </tr>
+</table>
+
+**Decisões técnicas que fazem a diferença:**
+
+| Decisão | Motivação |
+|---|---|
+| `UUID` como chave primária | Previne enumeração e prepara para banco distribuído |
+| `ddl-auto=none` + DDL manual | Controle de schema em produção, zero risco de alterações destrutivas |
+| Arquitetura em camadas (Controller → Service → Repository) | Isolamento de regras de negócio e alta manutenibilidade |
+| Supabase desde o MVP | Testes de integração reais desde o dia 1, pronto para deploy |
+
+**Progresso atual:**
+
+```
+[████████████░░░░░░░░] MVP em andamento
+
+✅ Modelagem de entidades e relacionamentos (JPA/Hibernate)
+✅ Scripts DDL + constraints no banco
+✅ Integração com PostgreSQL na nuvem (Supabase)
+✅ Camada de acesso a dados (Repositories)
+✅ Validação de contexto e conexão (Spring Boot Test)
+⬜ DTOs e Bean Validation          ← próxima issue
+⬜ Regras de negócio (Services)
+⬜ Endpoints REST (Controllers)
+```
+
+---
+
+## 🧠 Foundations
+
+> Mais do que frameworks, o que define um bom dev é o que está por baixo.
+
+```
+Algoritmos & Estrutura de Dados ──── Big O Notation, listas, árvores, hash maps
+Orientação a Objetos ─────────────── SOLID, herança, polimorfismo, encapsulamento  
+Modelagem Relacional ─────────────── Normalização (1NF → 3NF), ERD, constraints
+Arquitetura de Software ──────────── Camadas, separação de responsabilidades, coesão
+Clean Code ───────────────────────── Legibilidade, nomenclatura, funções coesas
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=francinato-silva&show_icons=true&theme=dark&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&border_color=30363d&hide_border=false"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinato-silva&layout=compact&theme=dark&bg_color=0d1117&title_color=1a73e8&border_color=30363d&hide_border=false"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**💼 Aberto a oportunidades de estágio e trainee em Backend**
+
+*"A qualidade não é um ato, é um hábito." — Aristóteles*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1a73e8&height=100&section=footer" width="100%"/>
+
+</div>
