@@ -95,7 +95,7 @@ public class NatoDev {
 ✅ Integração com PostgreSQL na nuvem (Supabase)
 ✅ Camada de acesso a dados (Repositories)
 ✅ Validação de contexto e conexão (Spring Boot Test)
-⬜ DTOs e Bean Validation          ← próxima issue
+✅ DTOs e Bean Validation          
 ⬜ Regras de negócio (Services)
 ⬜ Endpoints REST (Controllers)
 ```
