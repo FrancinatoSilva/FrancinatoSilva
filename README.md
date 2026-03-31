@@ -62,46 +62,6 @@ public class NatoDev {
 
 </div>
 
----
-
-## 🚀 Featured Project
-
-<table>
-  <tr>
-    <td width="60px" align="center">🛒</td>
-    <td>
-      <strong>E-Commerce API — Backend</strong><br/>
-      API RESTful construída com Java + Spring Boot para gerenciar o fluxo completo de um e-commerce: catálogo, carrinho, checkout e pedidos. Infraestrutura em nuvem com PostgreSQL via Supabase desde a fase de MVP.
-    </td>
-  </tr>
-</table>
-
-**Decisões técnicas que fazem a diferença:**
-
-| Decisão | Motivação |
-|---|---|
-| `UUID` como chave primária | Previne enumeração e prepara para banco distribuído |
-| `ddl-auto=none` + DDL manual | Controle de schema em produção, zero risco de alterações destrutivas |
-| Arquitetura em camadas (Controller → Service → Repository) | Isolamento de regras de negócio e alta manutenibilidade |
-| Supabase desde o MVP | Testes de integração reais desde o dia 1, pronto para deploy |
-
-**Progresso atual:**
-
-```
-[████████████░░░░░░░░] MVP em andamento
-
-✅ Modelagem de entidades e relacionamentos (JPA/Hibernate)
-✅ Scripts DDL + constraints no banco
-✅ Integração com PostgreSQL na nuvem (Supabase)
-✅ Camada de acesso a dados (Repositories)
-✅ Validação de contexto e conexão (Spring Boot Test)
-✅ DTOs e Bean Validation          
-⬜ Regras de negócio (Services)
-⬜ Endpoints REST (Controllers)
-```
-
----
-
 ## 🧠 Foundations
 
 > Mais do que frameworks, o que define um bom dev é o que está por baixo.
