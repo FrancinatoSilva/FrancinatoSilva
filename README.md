@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=200&section=header&text=Francinato%20Silva&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Nato%20Dev%20|%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=a8c7fa" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -18,7 +16,6 @@
 
 ```java
 public class NatoDev {
-
     private final String name    = "Francinato Silva";
     private final String role    = "Backend Developer";
     private final String focus   = "Java · Spring Boot · SQL";
@@ -45,8 +42,11 @@ public class NatoDev {
 **Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Database**
 
@@ -59,6 +59,8 @@ public class NatoDev {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -80,8 +82,8 @@ Clean Code ───────────────────────
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=francinato-silva&show_icons=true&theme=dark&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&border_color=30363d&hide_border=false"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinato-silva&layout=compact&theme=dark&bg_color=0d1117&title_color=1a73e8&border_color=30363d&hide_border=false"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=FrancinatoSilva&show_icons=true&theme=dark&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancinatoSilva&layout=compact&theme=dark&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&border_color=30363d&hide_border=false"/>
 
 </div>
 
